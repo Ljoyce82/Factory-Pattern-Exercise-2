@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\listdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\listdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\mongodataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\mongodataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\mytra\\desktop\\repos\\factory-pattern-exercise-2\\factorypatternexercise2\\sqldataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\sqldataacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\DataAccessFactory.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\DataAccessFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:35:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoDataAcess.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\MongoDataAcess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\MongoDataAcess.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\MongoDataAcess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\MongoDataAcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:34:56.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLDataAcess.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\SQLDataAcess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\SQLDataAcess.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\SQLDataAcess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\SQLDataAcess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:34:41.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\ListDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\ListDataAccess.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\ListDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\ListDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:34:29.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\IDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:32:21.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Product.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\Product.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Product.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:30:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\mytra\\Desktop\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Program.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:59:14.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
